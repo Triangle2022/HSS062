@@ -1,6 +1,8 @@
 # HSS062
 This is the KAIST Leadership3 class, Robot Making
-
+***
+## Purchase list
+<https://docs.google.com/spreadsheets/d/1leMiH778_cQ3XAQwdqG5xe8Diq9ddf6FsvqKYTk_H7I/edit#gid=0>
 ***
 
 #### DAY1 
